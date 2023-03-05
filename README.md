@@ -12,17 +12,8 @@ By leaving this repo you should have fully understood how to design a pattern ac
 
 In order to run this project we will need:
 
-An code editor ✅ (Intellij community ❤️‍🔥)
+An code editor ✅ 
 
 Java 17 ✅
 
 Maven ✅
-
-
-
-If you are on Linux(Debian) you can use this commands in order to install it.
-```bash
-    sudo apt update
-    sudo apt install openjdk-17-jdk
-    sudo apt install maven
-```
