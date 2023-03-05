@@ -26,7 +26,7 @@ Similarly, if the user adjusts the volume or playback speed, the subject would n
 Overall, the observer pattern helps keep the video player and user interface components in sync, ensuring that the user has a seamless and responsive experience while watching videos on the platform.
 
 
-#Definition & Pros/Cons
+# Definition & Pros/Cons
 
 
 The Observer Pattern is a design pattern in software engineering that defines a one-to-many dependency relationship between objects, such that when one object (called the "subject") changes state, all of its dependent objects (called "observers") are notified and updated automatically.
