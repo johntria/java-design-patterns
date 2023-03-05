@@ -13,7 +13,7 @@ It's like a baby monitor: the baby (subject) cries and the parent (observer) get
 In programming, it's when an object (subject) sends a message to a list of other objects (observers) when it changes.
 
 This helps keep things in sync and makes sure everyone knows what's going on.
-###  Real time scenario ??
+###  Real time scenario 🤙🏾
 
 A real-time scenario involving videos and the observer pattern could be a video streaming service like YouTube. In this scenario, the video player would be the "subject" and the various components of the user interface, such as the progress bar, playback speed selector, and volume control, would be the "observers".
 
