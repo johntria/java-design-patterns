@@ -17,12 +17,3 @@ An code editor ✅ (Intellij community ❤️‍🔥)
 Java 17 ✅
 
 Maven ✅
-
-
-
-If you are on Linux(Debian) you can use this commands in order to install it.
-```bash
-    sudo apt update
-    sudo apt install openjdk-17-jdk
-    sudo apt install maven
-```
