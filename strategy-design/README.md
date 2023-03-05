@@ -11,7 +11,7 @@ The strategy design pattern is like having a toy box full of different toys. Whe
 
 ###  Real time scenario 🤙🏾
 A common real-world scenario where the strategy design pattern is used on vehicles.
-Lets set an example which someone told you that we want to create us an application which we can store lot of vehicles but we have to know if it can fly.
+Let's set an example which someone told you that we want to create us an application which we can store a lot of vehicles, but we have to know if it can fly.
 
 
 As a developer which you ❤️ ORP (object-oriented programming) you would think that I have to create a class where it can have the ability for multiple objects where in each of these objects I have to define whether it can fly.
@@ -35,7 +35,7 @@ _The strategy design pattern is a behavioral design pattern that allows you to e
 Pros:
 
 * Encapsulates algorithms as separate objects, making them easy to swap in and out as needed.
-* Promotes code reusability, as the same set of strategies can be used across multiple applications or modules.
+* Promotes code "reusability", as the same set of strategies can be used across multiple applications or modules.
 * Allows for easy addition of new strategies without modifying existing code.
 * Enhances flexibility and maintainability of the codebase, as changes to one strategy do not affect the others.
 * Promotes adherence to the Open/Closed Principle (OCP) of software design, which states that code should be open for extension but closed for modification.
