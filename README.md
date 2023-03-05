@@ -12,7 +12,7 @@ By leaving this repo you should have fully understood how to design a pattern ac
 
 In order to run this project we will need:
 
-An code editor ✅ (Intellij community ❤️‍🔥)
+An code editor ✅ 
 
 Java 17 ✅
 
