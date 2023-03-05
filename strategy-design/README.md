@@ -4,7 +4,7 @@
 As you remember when we started this repo we said we should be able to explain each algorithm in a single breath
 
 ## Single breath explanation
-![](https://github.com/johntria/java-design-patterns/blob/master/strategy-design/src/main/resources/will-trent.gif)
+![](https://media.tenor.com/tL8sFw6XauoAAAAC/the-options-are-just-endless-endless-options.gif)
 
 The strategy design pattern is like having a toy box full of different toys. When you want to play, you pick the toy that best suits your game. Similarly, the strategy pattern lets you choose from different strategies to solve a problem based on your needs. It's like having different tools in a toolbox that you can use depending on what you want to build.
 
