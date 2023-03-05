@@ -26,4 +26,3 @@ If you are on Linux(Debian) you can use this commands in order to install it.
     sudo apt install openjdk-17-jdk
     sudo apt install maven
 ```
-    
