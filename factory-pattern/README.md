@@ -12,7 +12,7 @@ So, you decide to make a special box that has all the pieces you need to build a
 
 That's basically what the factory pattern is in programming. Instead of creating objects from scratch every time you need them, you make a "factory" that creates those objects for you. This way, you don't have to repeat the same code over and over again, and you can easily make changes to the way objects are created by updating the factory.
 
-###  Real time scenario ??
+###  Real time scenario 🤙🏾
 It's often used in scenarios where you need to create multiple objects that have similar functionality but different implementations. Here are a few examples of real-world scenarios where you might use the factory pattern:
 
 Creating different types of database connections: If you're working on a web application that needs to connect to multiple databases (such as MySQL, Oracle, and PostgreSQL), you could use a factory pattern to create different types of database connections. Each type of database connection would have its own implementation, but the client code that uses the connections would only need to interact with the factory class.
@@ -48,6 +48,6 @@ Cons:
 
 * Do the possible classes you want to use have the same super class? If YES go for it!
 
-* Do you want your colleague to know all the subclasses? If NOT go for it!
+* Do you want your colleague to know all the sub classes? If NOT go for it!
 
 * Do you want to encapsulate the creation of objects? If YES go for it!
