@@ -5,7 +5,7 @@ import org.johncode.implementations.RedLegoFactory;
 import org.johncode.interfaces.LegoBlock;
 import org.johncode.interfaces.LegoFactory;
 
-public class LogoCreator {
+public class LegoCreator {
 	public static void main(String[] args) {
 		LegoFactory redLegoFactory = new RedLegoFactory();
 		LegoBlock redBlock = redLegoFactory.createBlock();
