@@ -51,7 +51,7 @@ In general, the Builder pattern involves creating a separate Builder class with 
 
 * Can be verbose: The Builder pattern can be verbose, particularly when there are many optional properties to set or when there are multiple levels of nesting required. This can make the code less concise and harder to read.
 
-### Should you use it ?
+### Where and when should i use it ?
 
 When you need to create objects with many optional properties: If you have an object with many optional properties that may or may not be set, using a Builder pattern can make it easier to construct the object with the desired properties without creating numerous overloaded constructors.
 
