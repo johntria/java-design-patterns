@@ -5,6 +5,8 @@ As you remember when we started this repo we said we should be able to explain e
 
 ## Single breath explanation
 ![](https://media0.giphy.com/media/CZokLM4Ax23DbPN2Py/giphy.gif)
+
+
 Imagine you want to build a PC, but you don't know where to start. You know you need some parts like a motherboard, a processor, some memory, a hard drive, and so on. But how do you put all of these parts together?
 
 That's where the builder pattern comes in! It's a design pattern in Java that helps you create objects with many configurable parts. In other words, it helps you build complex objects step by step.
