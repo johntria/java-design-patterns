@@ -17,6 +17,7 @@
         <module>builder-pattern</module>
         <module>prototype-pattern</module>
         <module>decorator-pattern</module>
+        <module>command-pattern</module>
     </modules>
 
 
