@@ -24,11 +24,11 @@ In this scenario, the adapter acts as a bridge between your website and the alte
 
 ### Definition & Pros/Cons
 
-_The Adapter Design Pattern is a structural design pattern that allows two incompatible interfaces to work together by creating a bridge between them. It acts as a compatibility layer that translates the communication between two different components so that they can communicate effectively.
+_The Adapter Design Pattern is a structural design pattern that allows two incompatible interfaces to work together by creating a bridge between them. It acts as a compatibility layer that translates the communication between two different components so that they can communicate effectively._
 
-The pattern is commonly used when you have an existing application or component that expects one interface, but you need to integrate it with a new component that has a different interface. Instead of modifying the existing application or component, you can create an adapter that adapts the new component's interface to the interface expected by the existing application or component.
+_The pattern is commonly used when you have an existing application or component that expects one interface, but you need to integrate it with a new component that has a different interface. Instead of modifying the existing application or component, you can create an adapter that adapts the new component's interface to the interface expected by the existing application or component._
 
-In summary, the adapter design pattern helps to solve the problem of how to make two incompatible interfaces work together by creating an adapter that acts as a bridge between them._
+_In summary, the adapter design pattern helps to solve the problem of how to make two incompatible interfaces work together by creating an adapter that acts as a bridge between them._
 
 ### Pros of adapter Pattern:
 
@@ -65,4 +65,3 @@ Do you need to reuse existing code without modifying it? Go for it !
 Will the adapter pattern simplify the overall system design? Go for it !
 
 Will it provide flexibility, modularity, or scalability benefits to your system? Go for it !
-
