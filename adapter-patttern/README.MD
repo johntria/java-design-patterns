@@ -30,7 +30,7 @@ The pattern is commonly used when you have an existing application or component 
 
 In summary, the adapter design pattern helps to solve the problem of how to make two incompatible interfaces work together by creating an adapter that acts as a bridge between them._
 
-### Pros of decorator Pattern:
+### Pros of adapter Pattern:
 
 * Improves code reusability: By using the adapter pattern, you can reuse existing code without modifying it. This can save a lot of development time and effort, as you can adapt different components to work together without having to write new code from scratch.
 
@@ -43,7 +43,7 @@ In summary, the adapter design pattern helps to solve the problem of how to make
 * Improves scalability: The adapter pattern can improve the scalability of the system by allowing you to add new components without having to modify existing code. This can make it easier to scale the system up to handle larger volumes of data or users.
 
 
-### Cons of decorator Pattern:
+### Cons of adapter Pattern:
 
 * Adds complexity: Adding an adapter layer to a system can add complexity, especially if you need to create multiple adapters to work with different components. This can make the system harder to understand, debug, and maintain over time.
 
